@@ -290,7 +290,8 @@ header {
 .maincontent1 {
     display: flex;
     justify-content: space-evenly;
-    border: 2px solid black;
+    flex-wrap: wrap;
+    padding: 10px;
 }
 
 .main2 {
