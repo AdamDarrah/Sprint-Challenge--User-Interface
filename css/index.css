@@ -286,3 +286,50 @@ header {
     margin-top: 30px;
     width: 100%;
 }
+
+.maincontent1 {
+    display: flex;
+    justify-content: space-evenly;
+    border: 2px solid black;
+}
+
+.main2 {
+    border: 2 px solid black;
+}
+.content1 {
+    width: 47%;
+}
+
+.content2 {
+    width: 47%;
+}
+
+.content3 {
+    width: 47%;
+}
+
+.content4 {
+    width: 47%;
+}
+
+.footer1 {
+    padding: 15px;
+    width: 800px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+hr {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.links li a {
+    text-decoration: none;
+    color: black;
+}
+
+footer {
+    margin-top: 25px;
+}
