@@ -34,10 +34,10 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
-Semantic HTML tells the browser and developers what is going on with a page. It is like a label for different parts of a website.
-
+Semantic HTML tells the browser and developers what is going on with a page. It is like a label for different parts of a website. 
+ Inline elements don’t start on a new line,
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
-does it really matter? Flexbox has made this question redundant and obsolete.
+does it really matter? Flexbox has made this question redundant and obsolete. Inline has padding and margins on all 4 sides.Inline elements don’t start on a new line. We cannot add height to the top or bottom padding or margin of an inline element.
 
 3. What are the 4 areas of the box model?
 padding, border, margin, content
@@ -47,7 +47,7 @@ cross axix
 
 5. Explain why git is valuable to a team of developers.
 
-it allows for different users to work on code safely at the same time. It also lets us store code onlne. Then lead developers can approve or decline 
+it allows for different users to work on code safely at the same time. It also lets us store code onlne. Then lead developers can approve or decline code by merging.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
