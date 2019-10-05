@@ -37,7 +37,7 @@ Edit this document to include your answers after each question. Make sure to lea
 Semantic HTML tells the browser and developers what is going on with a page. It is like a label for different parts of a website. 
  Inline elements don’t start on a new line,
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
-does it really matter? Flexbox has made this question redundant and obsolete. Inline has padding and margins on all 4 sides.Inline elements don’t start on a new line. We cannot add height to the top or bottom padding or margin of an inline element.
+ Inline has padding and margins on all 4 sides.Inline elements don’t start on a new line. We cannot add height to the top or bottom padding or margin of an inline element.
 
 3. What are the 4 areas of the box model?
 padding, border, margin, content
